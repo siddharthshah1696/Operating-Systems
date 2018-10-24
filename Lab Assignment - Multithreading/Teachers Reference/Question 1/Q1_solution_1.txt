@@ -1,0 +1,3 @@
+Sum of elements at odd positions : 24980367 
+
+Sum of elements at even positions : 24954179 

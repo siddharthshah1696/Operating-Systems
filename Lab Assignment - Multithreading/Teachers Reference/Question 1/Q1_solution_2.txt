@@ -1,0 +1,5 @@
+Sum of elements at odd positions : 683
+
+Sum of elements at even positions : -677 
+
+ 
